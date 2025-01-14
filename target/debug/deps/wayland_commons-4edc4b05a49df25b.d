@@ -1,0 +1,11 @@
+/mnt/c/Users/HP/documents/rust-learning/flappy/target/debug/deps/libwayland_commons-4edc4b05a49df25b.rmeta: /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/lib.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/debug.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/filter.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/map.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/socket.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/user_data.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/wire.rs
+
+/mnt/c/Users/HP/documents/rust-learning/flappy/target/debug/deps/wayland_commons-4edc4b05a49df25b.d: /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/lib.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/debug.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/filter.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/map.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/socket.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/user_data.rs /home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/wire.rs
+
+/home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/lib.rs:
+/home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/debug.rs:
+/home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/filter.rs:
+/home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/map.rs:
+/home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/socket.rs:
+/home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/user_data.rs:
+/home/ojalla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-commons-0.29.5/src/wire.rs:

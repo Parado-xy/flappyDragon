@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\rust-learning\flappy\target\debug\deps\libbracket_embedding-540502e700b54b24.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\embedding.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/terminal8x8.png C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/vga8x16.png
+
+C:\Users\HP\Documents\rust-learning\flappy\target\debug\deps\libbracket_embedding-540502e700b54b24.rlib: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\embedding.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/terminal8x8.png C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/vga8x16.png
+
+C:\Users\HP\Documents\rust-learning\flappy\target\debug\deps\bracket_embedding-540502e700b54b24.d: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\embedding.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/terminal8x8.png C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/vga8x16.png
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\embedding.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/terminal8x8.png:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-embedding-0.8.7\src\../resources/vga8x16.png:
